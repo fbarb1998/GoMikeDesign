@@ -82,7 +82,7 @@ button {
 }
 
 .bloc-bg-texture::before {
-    content: "";
+    content: " ";
     background-size: 2px 2px;
     position: absolute;
     top: 0;
@@ -844,11 +844,11 @@ h1 {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.webp");
+    background-image: url("img/atlanta-made-sign.webp");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta\ made\ sign\ orange.webp");
+    background-image: url("img/atlanta-made-sign-orange.webp");
 }
 
 @media (max-width: 1024px) {

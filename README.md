@@ -10,7 +10,7 @@ The goal of this optimization is to enhance the accessibility and SEO performanc
 1. **SEO Issues:**
    - Problem: Missing meta descriptions for important pages.
      Explanation: Meta descriptions are crucial for search engine results as they influence click-through rates.
-     Reference: [Google's Guide to Meta Descriptions](https://developers.google.com/search/docs/advanced/appearance/snippet-meta-description)
+     Reference: [Google's Guide to Meta Descriptions](https://developers.google.com/search/docs/appearance/snippet)
 
 2. **Accessibility Issues:**
    - Problem: Insufficient contrast ratio between text and background colors.
@@ -37,7 +37,3 @@ The goal of this optimization is to enhance the accessibility and SEO performanc
 **Code Submission:**
 The provided source code includes the implemented improvements following the recommendations mentioned above. The HTML and CSS have been validated using W3C validators to ensure compliance with standards.
 
-**Demonstration:**
-Before implementing the optimizations, the website's performance was assessed using Google's Lighthouse tool. After implementation, the website's performance was re-evaluated to demonstrate improvements in accessibility, SEO, and page speed.
-
-**Home Page Desktop Before

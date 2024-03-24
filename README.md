@@ -1,7 +1,7 @@
 **Website Optimization Read Me:**
 
 **GitHub Page:** https://fbarb1998.github.io/GoMikeDesign/
-**Page Link:** https://isfiaya.github.io/GoMikeDesigns/
+**Page Link:** https://fbarb1998.github.io/GoMikeDesign/
 
 **Objective:**
 The goal of this optimization is to enhance the accessibility and SEO performance of the existing website by addressing identified issues and implementing improvements based on industry best practices.

@@ -5,6 +5,7 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-size: 16px;
 }
 
 a,
@@ -328,7 +329,7 @@ button {
 .nav>li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 /* .navbar-nav .open .dropdown-menu > li > a {
@@ -534,7 +535,7 @@ button {
 }
 
 .showScrollTop {
-    font-size: 14px;
+    font-size: 16px;
     opacity: 1;
 }
 
@@ -687,7 +688,7 @@ a {
 } */
 
 p {
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {

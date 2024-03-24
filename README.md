@@ -40,6 +40,4 @@ The provided source code includes the implemented improvements following the rec
 **Demonstration:**
 Before implementing the optimizations, the website's performance was assessed using Google's Lighthouse tool. After implementation, the website's performance was re-evaluated to demonstrate improvements in accessibility, SEO, and page speed.
 
-For a complete demonstration, refer to the attached documentation and comparison screenshots from Google's Lighthouse tool.
-
-[Insert link to source code and documentation]
+**Home Page Desktop Before
